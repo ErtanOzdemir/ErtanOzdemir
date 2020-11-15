@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ertan Özdemir</h1>
-<h3 align="center">A undergraduate Computer Engineering student at Istinye University in Turkey</h3>
+<h3 align="center">A undergraduate Computer Engineering student at Istinye University from Turkey</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/ErtanOzdemir](https://github.com/ErtanOzdemir)
 
