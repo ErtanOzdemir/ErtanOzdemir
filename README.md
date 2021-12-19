@@ -5,7 +5,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@_ertanozdemir](https://medium.com/@_ertanozdemir)
 
-- 💬 Ask me about **Flutter, Dart, JavaScript**
+- 💬 Ask me about **JavaScript, React**
 
 - 📫 How to reach me **mail@ozdemirertan.com**
 
