@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ErtanOzdemir](https://github.com/ErtanOzdemir)
 
-- 📝 I regulary write articles on [https://medium.com/@_ertanozdemir](https://medium.com/@_ertanozdemir)
+- 📝 I regulary write articles on [https://blog.ertanozdemir.dev](https://blog.ertanozdemir.dev)
 
 - 💬 Ask me about **JavaScript, React**
 
