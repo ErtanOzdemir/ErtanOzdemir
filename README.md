@@ -5,7 +5,7 @@
 
 - 📝 I regulary write articles on [https://blog.ertanozdemir.dev](https://blog.ertanozdemir.dev)
 
-- 💬 Ask me about **JavaScript, React, Node.js, Express.js, Nest.js, GraphQL, MongoDB **
+- 💬 Ask me about **JavaScript, React, Node.js, Express.js, Nest.js, GraphQL, MongoDB**
 
 - 📫 How to reach me **mail@ozdemirertan.com**
 
